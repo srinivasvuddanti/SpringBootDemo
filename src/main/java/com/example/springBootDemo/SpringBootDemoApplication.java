@@ -16,7 +16,7 @@ public class SpringBootDemoApplication {
 		e.setEName("koundinya");
 		e.setEAddress("Newyork");
 		
-		System.out.println(e.getEId())kjlkjk;
+		System.out.println(e.getEId());
 		System.out.println(e.getEName());
 		System.out.println(e.getEAddress());
 	}
