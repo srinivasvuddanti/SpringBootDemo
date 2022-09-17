@@ -11,9 +11,6 @@ public class SpringBootDemoApplication {
 		
 		System.out.println("hello world ..........");
 		
-		
-		
-		
 		Employee e = new Employee();
 		e.setEId(1);
 		e.setEName("koundinya");
